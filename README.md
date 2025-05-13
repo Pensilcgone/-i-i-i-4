@@ -16,7 +16,7 @@
 
 1. Клон репозиторію:
     ```bash
-   
+   https://github.com/Pensilcgone/-i-i-i-4
     ```
 2. Імпортування класу у Python-проєкт:
     ```python
