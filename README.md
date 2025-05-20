@@ -16,7 +16,7 @@
 
 1. Клон репозиторію:
     ```bash
-   https://github.com/Pensilcgone/-i-i-i-4
+   (https://github.com/Pensilcgone/README-Time-Interval)
     ```
 2. Імпортування класу у Python-проєкт:
     ```python
